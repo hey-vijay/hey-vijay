@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ❤️Android ❤️Kotlin 🔥Firebase!
 - 🌱 I’m currently learning Backend Development
 
-
-![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=hey-vijay&count_private=true&show_icons=true)
+<details>
+ <summary><b>📊 Github Stats</b></summary>
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hey-vijay&count_private=true&show_icons=true"/>
+</details>
 
