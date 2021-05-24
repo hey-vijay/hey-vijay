@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on ❤️Android ❤️Kotlin 🔥Firebase!
-- 🌱 I’m currently learning Backend Development
-
+- 🌱 Small step at a time.
+- 🏃🏽‍♂️ If you want to develop faster plan Slowly. 
+- ⚡ Fun fact: Every meme about Engineer is true. Almost!
 <details>
  <summary><b>📊 Github Stats</b></summary>
  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hey-vijay&count_private=true&show_icons=true"/>
