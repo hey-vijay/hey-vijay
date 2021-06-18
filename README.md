@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ❤️Android ❤️Kotlin 🔥Firebase!
 - 🌱 Small step at a time.
-- 🏃🏽‍♂️ If you want to develop faster, plan Slowly. 
+- 🏃🏽‍♂️ If you want to build/develop faster, plan Slowly. 
 - ⚡ Fun fact: Every meme about Engineer is true. Almost!
 <details>
  <summary><b>📊 Github Stats</b></summary>
