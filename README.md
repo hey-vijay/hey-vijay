@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭  I’m currently working on ❤️Android ❤️Kotlin 🔥 Firebase!
+- 🔭  I’m currently Learning ❤️ Android ❤️ Kotlin 🔥 Firebase!
 - 🌱  Small step at a time.
-- 🏃🏽‍♂️  If you want to build/develop faster, plan Slowly. 
+- 🏃🏽‍♂️  Plan slow to build faster.
 - ⚡  Fun fact: Every meme about Engineer is true. Almost!
 <details>
  <summary><b>📊 Github Stats</b></summary>
